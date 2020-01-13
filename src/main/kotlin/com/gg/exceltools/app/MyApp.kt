@@ -1,6 +1,6 @@
-package com.example.demo.app
+package com.gg.exceltools.app
 
-import com.example.demo.view.MainView
+import com.gg.exceltools.view.MainView
 import tornadofx.App
 
 class MyApp: App(MainView::class, Styles::class)
