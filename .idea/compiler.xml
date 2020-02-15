@@ -12,7 +12,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="ExcelComparisonTools" target="1.5" />
+      <module name="ExcelComparisonTools" target="1.8" />
       <module name="tornadofx-empty-maven-project" target="1.5" />
       <module name="tornadofx-empty-project" target="1.5" />
     </bytecodeTargetLevel>
